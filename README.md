@@ -45,5 +45,6 @@ Make sure you have the following installed:
    ```bash
    git clone https://github.com/your-username/learning-platform.git
 Install dependencies for both frontend and backend:
+```bash
 cd server
 npm install
